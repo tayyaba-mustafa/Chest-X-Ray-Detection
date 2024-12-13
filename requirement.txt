@@ -1,0 +1,11 @@
+streamlit
+torch
+torchvision
+timm
+transformers
+pillow
+numpy
+groq
+matplotlib
+seaborn
+fpdf
